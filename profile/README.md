@@ -15,6 +15,3 @@ Obtenez des supports prêts à l'emploi en un clin d'œil et révisez où vous v
 
 <p align="center"><strong><em>Révisez mieux, pas plus 💡</em></strong></p>
 
-#### Notre site web
-
-🚀 www.edukai.fr
