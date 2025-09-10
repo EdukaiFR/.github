@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="../assets/Edukai_logo.png" alt="Profile Image" width="150">
+    <img src="../assets/Frame 2.png" alt="Profile Image" width="150">
 </p>
 
 <h2 align="center">
